@@ -22,4 +22,4 @@ Voir **[LICENSE](LICENSE)**.
 
 ## `NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.`
 
-© 2026 Project A.S.C. — Tous droits réservés.
+Copyright © 2026 Project A.S.C. / IbraKar. All rights reserved.
